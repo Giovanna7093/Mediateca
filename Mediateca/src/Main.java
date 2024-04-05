@@ -26,8 +26,7 @@ public class Main {
 
             // Consultar los materiales disponibles
             System.out.println("Materiales disponibles:");
-            // Aquí deberías implementar la lógica para consultar los materiales disponibles en la base de datos
-            // y mostrar la información en la consola.
+           
         } catch (SQLException e) {
             e.printStackTrace();
         }
